@@ -15,3 +15,5 @@ C:\Users\elilo\OneDrive\Desktop\Spring2024\CIS4930-SoftwareEngineering\EventDriv
 C:\Users\elilo\OneDrive\Desktop\Spring2024\CIS4930-SoftwareEngineering\EventDriven\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.pdb
 C:\Users\elilo\OneDrive\Desktop\Spring2024\CIS4930-SoftwareEngineering\EventDriven\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.genruntimeconfig.cache
 C:\Users\elilo\OneDrive\Desktop\Spring2024\CIS4930-SoftwareEngineering\EventDriven\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\ref\EsepWebhook.dll
+C:\Users\elilo\OneDrive\Desktop\Spring2024\CIS4930-SoftwareEngineering\EventDriven\esep-webhooks\EsepWebhook\src\EsepWebhook\bin\Release\net8.0\linux-x64\Newtonsoft.Json.dll
+C:\Users\elilo\OneDrive\Desktop\Spring2024\CIS4930-SoftwareEngineering\EventDriven\esep-webhooks\EsepWebhook\src\EsepWebhook\obj\Release\net8.0\linux-x64\EsepWebhook.sourcelink.json
